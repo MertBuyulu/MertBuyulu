@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **amertbyl@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mert-buyulu" target="blank"><img align="center" src="[https://raw.githubusercontent.com/MertBuyulu/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&usqp=CAU)" alt="mert-buyulu" height="30" width="40" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MertBuyulu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MertBuyulu&show_icons=true&locale=en&theme=tokyonight" alt="MertBuyulu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MertBuyulu&&theme=tokyonight" alt="MertBuyulu" /></p>
