@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amertbyl@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MertBuyulu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MertBuyulu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MertBuyulu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MertBuyulu&show_icons=true&locale=en&theme=tokyonight" alt="MertBuyulu" /></p>
 
