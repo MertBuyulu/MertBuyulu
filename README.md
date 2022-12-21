@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mert</h1>
 <h3 align="center">A computer science student at the University of Texas at Dallas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="MertBuyulu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MertBuyulu&label=Profile%20views&color=0e75b6&style=flat" alt="MertBuyulu" /> </p>
 
-- 🔭 I’m currently working on **Library Management System App **
+- 🔭 I’m currently working on **Library Management System App**
 
-- 💬 Ask me about ** ANYTHNG!! **
+- 💬 Ask me about **ANYTHNG!**
 
 - 🌱 I’m currently learning **Augmented Reality**
 
