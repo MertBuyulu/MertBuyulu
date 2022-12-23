@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="picture" width="250px" height="250px"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="picture" width="150px" height="150px"/>
   <h1>Hi there 👋, I'm Mert</h1>
   <h3>A computer science student at the University of Texas at Dallas</h3>
 </div>
@@ -68,7 +68,7 @@ height="40"/>&nbsp;
 ### :books: Stats
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MertBuyulu&theme=nightowl)](https://git.io/streak-stats)
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MertBuyulu&show_icons=true&theme=nightowl)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mert-buyulu&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
   
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertBuyulu&layout=compact&theme=nightowl)
 
