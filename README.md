@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ANYTHNG!**
 
-- 🌱 I’m currently learning **Augmented Reality**
+- 🌱 I’m currently interested in **Machine Learning & AI**
 
 - 📫 How to reach me **amertbyl@gmail.com**
 
