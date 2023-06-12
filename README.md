@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently interested in **Machine Learning & AI**
   
-- 💻 I’m currently learning about Docker
+- 💻 I’m currently learning about AWS services and tools
 
 - 📫 How to reach me **amertbyl@gmail.com**
 
