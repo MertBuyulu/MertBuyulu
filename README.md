@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="picture" width="150px" height="150px"/>
   <h1>Hi there 👋, I'm Mert</h1>
-  <h3>A computer science student at the University of Texas at Dallas</h3>
+  <h3>A computer science graduate from the University of Texas at Dallas</h3>
 </div>
 
 <div id="badges" align="center"c>
@@ -10,11 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=MertBuyulu&style=flat-square&color=blue" alt="" height="23px"/>
 </div>
   
-- 🔭 I’m currently working on **Library Management System App**
+- 🔭 I’m currently working on **NextJs App**
 
 - 💬 Ask me about **ANYTHNG!**
 
-- 🌱 I’m currently interested in **Machine Learning & AI**
+- 🌱 I’m currently interested in **Web Frameworks**
   
 - 💻 I’m currently learning about AWS services and tools
 
